@@ -1,10 +1,10 @@
-### Hi there! 😄
+# Hi there! 😄
 
 
 
 
 
-
+##
 
 ✏️ | Learning: C++, Python and how to use RapidMiner 
 
