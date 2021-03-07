@@ -7,11 +7,11 @@ I'm Mariana and I'm currently studying Informatics and Computer Engineering
 
 
 >  ✏️ | **Learning:** *C++, Python and how to use RapidMiner* 
-
+> 
 >  💻 | **Working:** *some silly discord bots* 
-
+> 
 >  🔭 | **Future Projects:** *learn more about cybersecurity and AI*
-
+> 
 >  🌴 | I **love** *theatre, drawing, riddles, bossa nova, cats and tea*
 
 
