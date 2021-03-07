@@ -15,7 +15,7 @@ I'm Mariana and I'm currently studying Informatics and Computer Engineering
 >  🌴 | I **love** *theatre, drawing, riddles, bossa nova, cats and tea*
 
 
-![](https://lh6.googleusercontent.com/proxy/hPaUA5wWf2BQf0XzX2yIM-kJU8w5FRySBZTbY3xHcwBW91g8qOD0l9chW5S6KXmxC97i7wprqu9RaoEFBWasizX_INewIzn0VpkVi2_88NuOrdJ48JJG1QHg9rPTLNt8rnPdLLr1ZSM=s0-d)
+![](https://github-readme-stats-fc6mcm9vh.vercel.app/api/?username=golangis&hide_border=true&theme=dark)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=golangis&&show_icons=true&title_color=00d187&icon_color=00ffff&text_color=2f7add&bg_color=151515">
