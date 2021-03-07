@@ -1,7 +1,7 @@
 # Hi there! 😄
 
 
-##I'm Mariana and I'm currently studying Informatics and Computer Engineering
+## I'm Mariana and I'm currently studying Informatics and Computer Engineering
 
 
 ###
