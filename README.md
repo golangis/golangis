@@ -8,9 +8,9 @@
 
 ✏️ | Learning: C++, Python and how to use RapidMiner 
 
-💻 | Working on some silly discord bots 
+💻 | Working: some silly discord bots 
 
-🔭 | I'd love to learn more about cybersecurity and AI
+🔭 | Future Projects: learn more about cybersecurity and AI
 
 🌴 | I love theatre, drawing, riddles, bossa nova, cats and tea
 
