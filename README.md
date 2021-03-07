@@ -1,4 +1,4 @@
 ### Hi there 🔭 
-![](https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763)
+![](https://cdn.discordapp.com/emojis/816008155623587860.gif?v=1)
 
 
