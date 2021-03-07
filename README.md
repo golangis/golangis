@@ -1,7 +1,9 @@
 ### Hi there! 😄
 
-\n
-\n
+
+
+
+
 
 
 ✏️ | Learning: C++, Python and how to use RapidMiner 
