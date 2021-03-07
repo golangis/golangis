@@ -6,6 +6,8 @@
 
 💻 | Working on some silly discord bots 
 
+🔭 | I'd love to learn more about cybersecurity and AI
+
 🌴 | I love theatre, drawing, bossa nova, cats and tea
 
 
