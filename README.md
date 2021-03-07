@@ -1,8 +1,7 @@
 ### Hi there! 😄
 
 
-
-📖 | Learning: C++, Python and how to use RapidMiner 
+✏️ | Learning: C++, Python and how to use RapidMiner 
 
 💻 | Working on some silly discord bots 
 
